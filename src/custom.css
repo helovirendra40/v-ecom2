@@ -1,0 +1,4 @@
+.displayUsers{ max-width: 500px; min-width: 500px; width: 100%; min-height: 240px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; box-sizing: border-box; margin-top: 20px; padding: 10px;}
+.dealetIcon{ height: 30px; width: 30px; background: rgb(247, 104, 9); display: flex; align-items: center; justify-content: center; color: #fff; border-radius: 3px; cursor: pointer;}
+.min-height-250{ margin: 30px auto; min-height: 250px; max-width: 1200px;  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;}
+.min-height-250 svg{ font-size: 50px; }
